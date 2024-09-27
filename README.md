@@ -1,0 +1,2 @@
+# mavenDemoforGit
+Example for git 
